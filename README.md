@@ -1,4 +1,4 @@
-# 🧠 ThinkForge
+# 🧠 ThinkForge (IN PROGRESS)
 
 An AI-powered quiz creation platform that generates personalized educational quizzes from user-uploaded notes. Designed to support smarter studying, ThinkForge lets users explore popular quizzes, vote on peer-generated content, and revisit recent attempts — all with an engaging UI powered by React and TailwindCSS.
 
