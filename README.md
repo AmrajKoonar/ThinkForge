@@ -1,4 +1,4 @@
-# 🧠 QuizZora
+# 🧠 ThinkForge
 
 An AI-powered quiz creation platform that generates personalized educational quizzes from user-uploaded notes. Designed to support smarter studying, QuizZora lets users explore popular quizzes, vote on peer-generated content, and revisit recent attempts — all with an engaging UI powered by React and TailwindCSS.
 
@@ -24,8 +24,8 @@ This is a Next.js project built with Tailwind CSS and JavaScript, and integrates
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/quizzora.git
-cd quizzora
+git clone https://github.com/your-username/thinkforge.git
+cd thinkforge
 ```
 
 ### 2. **Install Dependencies**
