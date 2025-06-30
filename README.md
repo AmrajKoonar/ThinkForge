@@ -12,7 +12,7 @@ Built by Amraj Koonar & Amar Koonar.
 - 🔁 **Recent Quiz History**: Instantly retry your most recent quizzes from the dashboard.
 - 👍 **Upvote System**: Vote on other users’ quizzes to surface the most useful content.
 - 🔥 **Popular Quizzes Feed**: Try the most upvoted and attempted quizzes across the platform.
-- 📇 **Contact Page**: Send feedback or suggestions through a built-in contact form.
+- 📇 **Contact Page**: Submit feedback or suggestions using the built-in contact form.
 - ⚡ **Fast, Animated UI**: Built using Framer Motion and React Scroll for a seamless experience.
 - 🔁 **CI/CD Integration**: Auto-deployed with GitHub + Vercel for smooth iteration and testing.
 
